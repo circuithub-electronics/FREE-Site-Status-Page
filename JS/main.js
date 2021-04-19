@@ -7,13 +7,8 @@
 
 sites=[
     {
-        'site_name':'site.example1.com',
-        'site_url':'https://www.site.example1.com'
-    },
-    
-    {
-        'site_name':'Site 2 Example',
-        'site_url':'https://site2.example1.com/'
+        'site_name':'CircuitHub',
+        'site_url':'https://www.circuithub.in'
     }
    
 ]
